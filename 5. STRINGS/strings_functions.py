@@ -1,0 +1,11 @@
+name="Simoni"
+print(name.upper())
+print(name.lower())
+print(name.title()) 
+print(name.capitalize())
+print(name.swapcase())
+print(name.replace("Sim", "Sam"))
+print(name.count("i"))
+print(name.find("i"))
+print(name.index("i"))  
+print(name.startswith("Si"))
