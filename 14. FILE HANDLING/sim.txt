@@ -1,15 +1,2 @@
-helloooo.
-I am simono.
-Additional line added.
-Additional line added.
-Additional line added.
-Additional line added.
-Additional line added.
-Additional line added.
-Additional line added.
-Additional line added.
-Additional line added.
-Additional line added.
-Additional line added.
-Additional line added.
+This is a new file content.
 Additional line added.

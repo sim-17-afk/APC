@@ -8,3 +8,4 @@ with open("sim.txt", "a") as file:
     file.write("Additional line added.\n")
     print("\nAfter appending:")
     print(content)
+    
